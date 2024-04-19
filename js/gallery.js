@@ -100,3 +100,4 @@ gallery.addEventListener('click', (event) => {
     instance.show();
   }
 });
+//?
